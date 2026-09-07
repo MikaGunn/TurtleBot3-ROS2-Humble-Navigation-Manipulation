@@ -1,8 +1,8 @@
 # TurtleBot3 ROS 2 Humble — Navigation, Simulation & Manipulation
 
-A reproducible **ROS 2 Humble** workspace setup for TurtleBot3 covering **mobile robot simulation, teleoperation, SLAM/navigation, and TurtleBot3 manipulation/MoveIt 2 packages**.
+A reproducible **ROS 2 Humble** workspace setup for TurtleBot3 covering **mobile robot simulation, teleoperation, SLAM/navigation and TurtleBot3 manipulation/MoveIt 2 packages**.
 
-This repository was prepared from a working/development workspace that contained official ROBOTIS TurtleBot3 source repositories plus a saved occupancy-grid map. Instead of republishing thousands of unchanged upstream source files as personal code, this GitHub version keeps the **exact upstream repository revisions** in a `.repos` manifest and preserves the project-specific map and setup/troubleshooting documentation.
+This repository was prepared from a working/development workspace that contained official ROBOTIS TurtleBot3 source repositories plus a saved occupancy grid map. Instead of republishing thousands of unchanged upstream source files as personal code, this GitHub version keeps the **exact upstream repository revisions** in a `.repos` manifest and preserves the project specific map and setup/troubleshooting documentation.
 
 > **Important:** the TurtleBot3, DynamixelSDK, simulation, message, and manipulation packages are upstream ROBOTIS projects. They are dependencies, not claimed as original work in this repository.
 
@@ -16,7 +16,7 @@ This repository was prepared from a working/development workspace that contained
 - MoveIt 2 configuration for the manipulator
 - DynamixelSDK
 - TurtleBot3 message packages
-- Saved occupancy-grid map
+- Saved occupancy grid map
 - Reproducible pinned dependency manifest
 - Workspace diagnostic script
 - Troubleshooting notes for common source/build/runtime problems
