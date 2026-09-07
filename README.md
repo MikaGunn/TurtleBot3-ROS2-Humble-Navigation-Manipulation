@@ -282,13 +282,6 @@ These should normally **not** be stored in Git because:
 
 The `.gitignore` in this repository excludes them.
 
-## Portfolio Scope
-
-A precise way to describe this repository is:
-
-> Configured and tested a ROS 2 Humble TurtleBot3 development environment for simulation, teleoperation, mapping/navigation, and manipulator integration using official ROBOTIS packages, Gazebo, Nav2, Cartographer, MoveIt 2, and Dynamixel tooling.
-
-Do **not** describe the upstream TurtleBot3 packages themselves as code written from scratch.
 
 ## Suggested GitHub Topics
 
